@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jj1MpjhFs0ZBSNWMQMgH6mZFD9WlCn1GJC4n/shGPWBBdHPh1OpY4PlX+PMWmAK89xnpJlOVpGF0QlCGJJ4c9A==",
+  "success": true,
+  "projectFilePath": "C:\\GitRepo\\RabbitMQ-Example\\RabbitMQ\\ExcelCreate\\ExcelCreate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hmd62\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\hmd62\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\hmd62\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
